@@ -1,0 +1,13 @@
+C:\Users\fabri\Desktop\IES\4to Semestre\Laboratorio de programación 3\Messagboxes\Messagboxes\bin\Debug\Messagboxes.exe.config
+C:\Users\fabri\Desktop\IES\4to Semestre\Laboratorio de programación 3\Messagboxes\Messagboxes\bin\Debug\Messagboxes.exe
+C:\Users\fabri\Desktop\IES\4to Semestre\Laboratorio de programación 3\Messagboxes\Messagboxes\bin\Debug\Messagboxes.pdb
+C:\Users\fabri\Desktop\IES\4to Semestre\Laboratorio de programación 3\Messagboxes\Messagboxes\bin\Debug\Messagboxes.xml
+C:\Users\fabri\Desktop\IES\4to Semestre\Laboratorio de programación 3\Messagboxes\Messagboxes\obj\Debug\Messagboxes.vbproj.AssemblyReference.cache
+C:\Users\fabri\Desktop\IES\4to Semestre\Laboratorio de programación 3\Messagboxes\Messagboxes\obj\Debug\Messagboxes.Form1.resources
+C:\Users\fabri\Desktop\IES\4to Semestre\Laboratorio de programación 3\Messagboxes\Messagboxes\obj\Debug\Messagboxes.Resources.resources
+C:\Users\fabri\Desktop\IES\4to Semestre\Laboratorio de programación 3\Messagboxes\Messagboxes\obj\Debug\Messagboxes.vbproj.GenerateResource.cache
+C:\Users\fabri\Desktop\IES\4to Semestre\Laboratorio de programación 3\Messagboxes\Messagboxes\obj\Debug\Messagboxes.vbproj.CoreCompileInputs.cache
+C:\Users\fabri\Desktop\IES\4to Semestre\Laboratorio de programación 3\Messagboxes\Messagboxes\obj\Debug\Messagboxes.exe
+C:\Users\fabri\Desktop\IES\4to Semestre\Laboratorio de programación 3\Messagboxes\Messagboxes\obj\Debug\Messagboxes.xml
+C:\Users\fabri\Desktop\IES\4to Semestre\Laboratorio de programación 3\Messagboxes\Messagboxes\obj\Debug\Messagboxes.pdb
+C:\Users\fabri\Desktop\IES\4to Semestre\Laboratorio de programación 3\Messagboxes\Messagboxes\obj\Debug\Messagboxes.Form2.resources
